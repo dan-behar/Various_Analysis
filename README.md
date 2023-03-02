@@ -1,5 +1,12 @@
-# Various_Analysis (Daniel Behar y [Cruz del Cid](https://github.com/CruzdelCid/))
-Análisis varios de los datasets Penguins y Tips.
+# Various_Analysis
+
+
+## Creadores: 
+- Cruz del Cid [CruzdelCid](https://github.com/CruzdelCid)
+- Daniel Behar [dan-behar](https://github.com/dan-behar)
+
+
+## Análisis varios de los datasets Penguins y Tips.
 
 Penguins contiene la información de 3 especies de pinguinos que viven cerca de Argentina y Chile. Tips contiene información de un restaurante respecto los clientes
 DATASETS EXTRAIDOS DE KAGGLE.
